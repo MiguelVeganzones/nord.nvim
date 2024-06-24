@@ -91,7 +91,7 @@ theme.loadEditor = function()
 		MatchParen = { fg = nord.nord15_gui, bg = nord.none, style = bold },
 		ModeMsg = { fg = nord.nord4_gui },
 		MoreMsg = { fg = nord.nord4_gui },
-		NonText = { fg = nord.nord13_gui },
+		NonText = { fg = nord.nord13_gui, style = italic },
 		Pmenu = { fg = nord.nord4_gui, bg = nord.nord2_gui },
 		PmenuSel = { fg = nord.nord4_gui, bg = nord.nord10_gui },
 		PmenuSbar = { fg = nord.nord4_gui, bg = nord.nord2_gui },
